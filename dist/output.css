@@ -666,6 +666,10 @@ video {
   margin: 2rem;
 }
 
+.m-16 {
+  margin: 4rem;
+}
+
 .mx-16 {
   margin-left: 4rem;
   margin-right: 4rem;
@@ -1215,6 +1219,11 @@ video {
   color: rgb(30 58 138 / var(--tw-text-opacity));
 }
 
+.text-blue-700 {
+  --tw-text-opacity: 1;
+  color: rgb(29 78 216 / var(--tw-text-opacity));
+}
+
 .my-custom-bg-class{
   background-image: url(https://www.gold.ac.uk/assets/img/svg/sprite/charm-menu-staff-students.svg);
 }
@@ -1248,6 +1257,11 @@ video {
 .hover\:bg-black:hover {
   --tw-bg-opacity: 1;
   background-color: rgb(0 0 0 / var(--tw-bg-opacity));
+}
+
+.hover\:bg-red-800:hover {
+  --tw-bg-opacity: 1;
+  background-color: rgb(153 27 27 / var(--tw-bg-opacity));
 }
 
 .hover\:text-yellow-400:hover {
