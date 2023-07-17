@@ -1,3 +1,6 @@
 @tailwind base;
 @tailwind components;
 @tailwind utilities;
+.my-custom-bg-class{
+    background-image: url(https://www.gold.ac.uk/assets/img/svg/sprite/charm-menu-staff-students.svg);
+  }
